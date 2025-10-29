@@ -1,0 +1,11 @@
+/* Reset and base styling */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f6f9fc;
+  font-family: "Poppins", sans-serif;
+}
